@@ -1,1 +1,1 @@
-# SW_Taller_TypeScript_1
+Daniel Andrés Bernal Cáceres
